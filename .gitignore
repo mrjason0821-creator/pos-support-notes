@@ -1,0 +1,10 @@
+# Obsidian 本地状态（不必同步，避免冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# 系统文件
+desktop.ini
+.DS_Store
+Thumbs.db
