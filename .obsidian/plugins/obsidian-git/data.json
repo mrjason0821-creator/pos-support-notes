@@ -16,7 +16,6 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "gitPath": "D:\\Git\\cmd\\git.exe",
   "differentIntervalCommitAndPush": true
