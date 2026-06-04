@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/没送成功的单子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "没送成功的单子"
+            }
+          },
+          {
+            "id": "e2cdd221e3fb0206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/自助机无法刷卡了.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "自助机无法刷卡了"
+            }
+          },
+          {
+            "id": "b05761a902ab0318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Work/Front System/Front短信营销.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Front短信营销"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea73028e9940718f",
+    "type": "split",
+    "children": [
+      {
+        "id": "577ba5c2c507d55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d9f9a845eeef40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f614fe96455fba12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8af2718d66a44e08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5a72586cdf8c4e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1234be88931822a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7941b5a5de1bbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "91c1b66c725c0642",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "e804dc5dd0ada9db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b76884976ab600e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1c824096e3353332",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Work/Front System/Front短信营销.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Front短信营销 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "b05761a902ab0318",
+  "lastOpenFiles": [
+    "01 Work/Front System/Front电脑开机.md",
+    "01 Work/Front System/Front改打卡记录.md",
+    "Assets/Images/e0ab84c463bdb741948db195186d98db.png",
+    "00 Inbox/Online Order没有进单.md",
+    "01 Work/KP System/Kwickpos小票样式.md",
+    "01 Work/KP System/Kwickpos App手机端登录.md",
+    "00 Inbox/未命名.md",
+    "00 Inbox/自助机无法刷卡了.md",
+    "Assets/Images/83a653cef07888e247d79d2c950bea5f.png",
+    "00 Inbox/没送成功的单子.md",
+    "Assets/Images/2d8ef35bc19ae6f40ad55e84e1dad199.png",
+    "01 Work/Ticket/395004改菜单.md",
+    "01 Work/Ticket/394838测试升级.md",
+    "01 Work/Front System/Out of stock.md",
+    "01 Work/Front System/Front系统升级.md",
+    "01 Work/Front System/Front升级完成.md",
+    "01 Work/Front System/Front可练手Demo.md",
+    "01 Work/Front System/Front后台设置.md",
+    "01 Work/Front System/Front付款页面 Connection failed问题如何解决.md",
+    "01 Work/Front System/Front付款小票样式.md",
+    "01 Work/Front System/Front短信营销.md",
+    "Assets/Images/Pasted image 20260604090505.png",
+    "01 Work/KP System/前后升级测试克隆.md",
+    "00 Inbox/公司测试打印机IP地址.md",
+    "Assets/Images/Pasted image 20260604080014.png",
+    "Assets/Images/Pasted image 20260604075924.png",
+    "Assets/Images/Pasted image 20260604075903.png",
+    "Assets/Images/Pasted image 20260604075819.png",
+    "0xz Dashboard.md",
+    "01 Work/KP System/如果KP上加小费出现Tip Failed怎么解决.md",
+    "01 Work/POS Support/后厨打印机（Order Printer）小票从前台打印机(Payment Printer)出来该如何解决.md",
+    "01 Work/POS Support/MS查完卡号且在后台加完小费后，会在ticket里附上的截图（商家可能需要）.md",
+    "01 Work/SOP/如果商家被赖账（chargeback），需要我们帮他申诉该如何解决.md",
+    "90 Assets/Images/Pasted image 20260531211631.png",
+    "90 Assets/Images/Pasted image 20260531212146.png",
+    "00 Inbox/未命名.canvas",
+    "00 Inbox/未命名",
+    "Assets/Images",
+    "Assets",
+    "未命名",
+    "04 Templater",
+    "01 Work/Ticket",
+    "99 Archive",
+    "01 Work/Front System",
+    "90 Assets/Images",
+    "90 Assets",
+    "Ticket/未命名.canvas",
+    "未命名.canvas"
+  ]
+}
