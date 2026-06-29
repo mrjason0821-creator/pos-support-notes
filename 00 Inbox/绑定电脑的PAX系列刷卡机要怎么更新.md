@@ -2,8 +2,9 @@
 2. 查看新机器的SN，检查商家是否已经Batch,然后在Kp的后台检查（Check Batch）。Check Batch大部分数字是0，则代表已经过账成功，具体情况具体分析。
 3. 通知Harris或其他有激活权限的人，确认Pax系列刷卡机的升级激活权限。
 4. 确认激活之后，让商家将刷卡机重启。（重新插拔电源即可）
-5. 重启之后，一般来说IP会跳转到新的IP地址。这边先固定IP，然后查看IP地址，再Ping一下，确认有网络之后。查看刷卡机的MID。如果没有网络，再次查刷卡机的ECR，然后再试着Ping。
-6. SP30 查刷卡机MID: F -> 4. Host Setting -> 1.Hosts Parameters -> 1.Merchant ID
+5. 重启之后，一般来说IP会跳转到新的IP地址。这边先查看IP地址，然后固定IP，再Ping一下，确认有网络之后。查看刷卡机的MID。如果没有网络，再次查刷卡机的ECR，然后再试着Ping。
+6. ECR,（communication-----Ethernet------出现一个数字之后点OK）。 Kp绑定的是第二个HTTP GET,其他系统选第一个TCP/IP。
+7. SP30 查刷卡机MID: F -> 4. Host Setting -> 1.Hosts Parameters -> 1.Merchant ID
 
 SP30 PING：F -> 6. Communcation -> 8. Lan Parameters -> PING
 
