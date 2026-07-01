@@ -7,8 +7,8 @@
 ![[Pasted image 20260625095829.png]]
 ![[Pasted image 20260625095843.png]]![[Pasted image 20260625095856.png]]
 **IPCONFIG查电脑IP然后填入固定**![[Pasted image 20260625100106.png]]
-*接着去关联服务器的IP*
-![[Pasted image 20260625100335.png]]
+*接着去关联服务器的IP*![[Pasted image 20260701135344.png]]
+
 添加完之后一路点确定即可。
 
 
