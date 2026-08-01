@@ -15,6 +15,8 @@ Device ID
 
 
 --/109   可以不显示前缀1    /108/(208)    ---config--opt2---Caller ID  -----对应的数字
+
+
 需要在外面文件夹看    D盘    GDCPOS*--GDCPOS--- CLD1svr        -----对应的数字
 
 
