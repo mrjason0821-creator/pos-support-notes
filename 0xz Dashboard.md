@@ -1,14 +1,4 @@
-# 🚀 0xz OS
->
-Build slowly.Think Globally.
 
-----
-# 📓今日重点
-
-- [ ] Ticket处理
-- [ ] 英语学习
-- [ ] Linux学习
-- [ ] AI学习
 
 ----------------
 # 🎯 Work
