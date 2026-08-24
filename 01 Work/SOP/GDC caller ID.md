@@ -29,3 +29,14 @@
 
 
 大部分情况是Caller ID连接线问题
+
+
+caller id 
+如果只有一个插口 有分线器
+分线器一个端口的位置接modern或墙壁
+两个端口的位置接caller id和电话
+
+如果是两个端口
+usb连电脑
+Line口连modern或墙壁
+Phone口连电话
