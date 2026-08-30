@@ -1,0 +1,9 @@
+GDC : 2 / 5517
+
+MCPOS : 3127911889 / 1988
+
+ALDELO : 5517 或1988（旧版）
+
+KP:5517或jin123或者3309 6405
+
+Cardpointe密码：Zbszbszbs@1
