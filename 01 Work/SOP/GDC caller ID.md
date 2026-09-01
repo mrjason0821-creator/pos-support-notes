@@ -39,4 +39,4 @@ caller id
 如果是两个端口
 usb连电脑
 Line口连modern或墙壁
-Phone口连电话
+Phone口连电话![[Pasted image 20260901112331.png]]
